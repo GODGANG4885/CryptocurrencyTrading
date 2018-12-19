@@ -1,4 +1,4 @@
-# CryptocurrencyTradingSystem used upbit API
+# CryptocurrencyTradingSystem using upbit API
 cryptocurrency trading system
 
 
